@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! I'm Suliat 👋 
 
-<!--
-**Suliatsmart17/Suliatsmart17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **GoHighLevel (GHL) Expert** specializing in building high-converting systems, automated workflows, and custom designs that scale businesses.
 
-Here are some ideas to get you started:
+### 🚀 What I Do
+* **GHL Automations & Workflows:** Advanced trigger setups, calendar booking systems, and lead nurturing sequences.
+* **Funnel & Website Design:** Custom, responsive landing pages, sales funnels, and full website builds in GoHighLevel.
+* **Custom Code Snippets:** Tailored CSS/JavaScript to make your GHL pages look unique and professional.
+* **Integrations:** Connecting GHL with external tools via Webhooks, Zapier, and Make.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Let's Work Together
+Need a bulletproof GHL setup or custom funnel? Let's connect!
+* **Upwork:** https://www.upwork.com/freelancers/~0195271a9e48a350ff
+* **Email:** adedokunsuliatolajumoke87@gmail.com
